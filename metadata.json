@@ -1,0 +1,8 @@
+{
+  "name": "Abdusemed A. - Advanced Portfolio",
+  "description": "An interactive, motion-enhanced professional portfolio featuring custom cursor effects, project showcases, and a Gemini-powered AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
